@@ -11,4 +11,12 @@ nio模式下虽然http-nio-8080-exec*线程和回调线程AsfThread-executor-*�
 nio模式带来的好处是：
 提升QPS（用更少的线程资源实现更高的并发能力）
 
+<<<<<<< HEAD
 降低CPU负荷,提高利用率
+=======
+降低CPU负荷,提高利用率
+
+
+depelop分支新增
+depelop分支新增2
+>>>>>>> develop
